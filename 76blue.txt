@@ -1,1 +1,1 @@
-vietlo:0.tcp.ap.ngrok.io:12394:0
+Chiến Thần:hs1.teamobi.com:19129:0,Rồng Lửa:hs2.teamobi.com:19129:0,Global Server:hsglobal.teamobi.com:19129:1,0
