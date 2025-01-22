@@ -1,15 +1,1 @@
-VIETLO76 
-5 ĐIỀU BÁC HỒ DẠY
-
-Yêu tổ quốc, yêu đồng bào
-Love the nation, love the compatriot
-Học tập tốt, lao động tốt
-Study well, work well
-Đoàn kết tốt, kỷ luật tốt
-Unite well, discipline well
-Giữ gìn vệ sinh thật tốt
-Comply with hygienic regulations
-Khiêm tốn, thật thà, dũng cảm
-Be humble, be truthful, be brave
-
-
+127.0.0.1:14444
